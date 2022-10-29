@@ -1,0 +1,9 @@
+input{
+    padding: 5px;
+    margin: 5px 0;
+}
+
+input:first-child {
+    padding: 5px;
+    margin: 5px 0;
+}
